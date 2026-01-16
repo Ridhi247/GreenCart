@@ -103,11 +103,11 @@ Contributions and suggestions are welcome.
 ### 🏠 Home Page
 ![Home Page](screenshots/home.png)
 
-### 🏨 Hotel Listings
-![Hotel Listings](screenshots/listings.png)
+### 🧾 Categories /  Best Sellers
+![Hotel Listings](screenshots/categories.png)
 
-### 🛏️ Hotel Details Page
-![Hotel Details](screenshots/details.png)
+### 📦 Product Details
+![Hotel Details](screenshots/products.png)
 
-### 📅 Booking Section
-![Booking Section](screenshots/booking.png)
+### 🛒 Cart Page
+![Booking Section](screenshots/cart.png)
