@@ -1,6 +1,6 @@
 # 🥬 GreenCart – Grocery Shopping Web Application
 
-GreenCart is a modern **frontend-only grocery shopping web application** that allows users to browse products, view categories, manage a shopping cart, and simulate order placement. The project focuses on building a clean UI, smooth user experience, and frontend state management using React.
+GreenCart is a modern **grocery shopping web application** that allows users to browse products, view categories, manage a shopping cart, and simulate order placement. The project focuses on building a clean UI, smooth user experience, and frontend state management using React.
 
 ---
 
